@@ -2,7 +2,7 @@
 An open source clone of Amazon's Dynamo
 
 # Voldemort-clone
-Voldemort clone 
+Voldemort clone from mvp to master
 
 开源项目clone系列
 
